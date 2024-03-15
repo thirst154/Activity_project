@@ -2,6 +2,16 @@
 
 ## How to work on the project
 
+### VS Code
+
+- install VS Code Exentions 
+    - GitHub Repositories
+    - Remote Repositories
+
+- goto the file tab in vs code and click clone repo.
+
+### Terminal
+
 - Make sure git is installed on your machine and login to the github website/
 - In Terminal / command line  cd into directory where you want the code to be installed.
 
